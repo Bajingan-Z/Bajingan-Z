@@ -2,10 +2,6 @@
 
 <img width="800px" src="https://user-images.githubusercontent.com/116461/76165260-c6c00500-6112-11ea-9cda-0a6cb9b72e8f.gif" />
 
-<h4 align="center">
-☆ <b>GITHUB STATISTICS ☆
-<h4 align="center">
-
 <a href="https://github.com/Bajingan-Z"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Bajingan-Z&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 
