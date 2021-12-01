@@ -6,9 +6,8 @@
 ☆ <b>GITHUB STATISTICS ☆
 <h4 align="center">
 
-<h4 align="center">
 <a href="https://github.com/Bajingan-Z"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Bajingan-Z&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-<h4 align="center">
+
 
 <h4 align="center">
 ☆ <b>PROFILE VIEWERS ☆
