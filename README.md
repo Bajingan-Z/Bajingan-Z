@@ -20,3 +20,8 @@
   <h4 align="center">
 
   <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
+
+<b><i>I like to play on the internet and love to learn the Program 🖥</i></b>
+
+<h2><b>Donation To Me 💸</i></b></h2>
+<a href="https://saweria.co/Raka69andrian">CLICK HERE !</a>
