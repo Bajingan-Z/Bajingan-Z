@@ -4,7 +4,7 @@
 <img width="800px" src="https://user-images.githubusercontent.com/116461/76165260-c6c00500-6112-11ea-9cda-0a6cb9b72e8f.gif" />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bajingan-Z&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bajingan-Z&show_icons=true&theme=chartreuse-dark)
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bajingan-Z&layout=compact&theme=chartreuse-dark" />
 
 
