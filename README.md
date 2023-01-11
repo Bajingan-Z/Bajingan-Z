@@ -1,7 +1,3 @@
-
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bajingan-Z&show_icons=true&theme=chartreuse-dark)
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bajingan-Z&layout=compact&theme=chartreuse-dark" />
 
